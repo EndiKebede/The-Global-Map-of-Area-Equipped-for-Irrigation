@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a **pixel-level downscaling routine for Area Equipped for Irrigation (AEI)** based on the original C++ code developed by **Stefan Siebert**. The method allocates irrigated area across agricultural pixels using stepwise logic and multiple constraints (GMIA irrigated area dataset, cropland, pasture, and land availability), now rewritten in **Python** for reproducibility and extensibility.
+This project implements a **pixel-level downscaling apporach for Area Equipped for Irrigation (AEI)** based on the original C++ code developed by **Stefan Siebert**. The method allocates irrigated area across agricultural pixels using stepwise logic and multiple constraints (GMIA irrigated area dataset, cropland, pasture, and land availability), now rewritten in **Python** for reproducibility and extensibility.
 
 This Python implementation was developed by:
 
